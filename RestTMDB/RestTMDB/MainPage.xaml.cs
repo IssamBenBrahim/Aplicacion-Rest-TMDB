@@ -35,6 +35,11 @@ namespace RestTMDB
 
                 imagenLogoPelicula.IsVisible = false;
 
+                imagenCargar.IsVisible = true;
+
+                await imagenCargar.RotateTo(360, 2000);
+                imagenCargar.Rotation = 0;
+
                 foreach (Data.Result pelicula in peliculaCollection.results)
                 {
                     pelicula.poster_path = "https://image.tmdb.org/t/p/w500" + pelicula.poster_path;
@@ -56,6 +61,7 @@ namespace RestTMDB
             finally
             {
                 IsBusy = false;
+                imagenCargar.IsVisible = false;
             }
 
         }
