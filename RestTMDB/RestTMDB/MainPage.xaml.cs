@@ -33,6 +33,7 @@ namespace RestTMDB
                 IsBusy = true;
                 var peliculaCollection = await manager.GetAll(CountriesSearchBar.Text);
 
+                imagenLogoPelicula.IsVisible = false;
 
                 foreach (Data.Result pelicula in peliculaCollection.results)
                 {
