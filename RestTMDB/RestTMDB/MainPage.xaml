@@ -21,6 +21,14 @@
                IsVisible="true"
                Aspect="AspectFit"/>
 
+        <Image x:Name="imagenCargar"
+               Source="logoImagenCargar.png"
+               Margin="0,250,0,0"
+               WidthRequest="100"
+               HeightRequest="100"
+               IsVisible="true"
+               Aspect="AspectFit"/>
+
         <ListView ItemsSource="{Binding}">
             <ListView.ItemTemplate>
                 <DataTemplate>

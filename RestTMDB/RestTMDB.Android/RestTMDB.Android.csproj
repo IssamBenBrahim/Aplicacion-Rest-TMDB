@@ -83,7 +83,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\logoImagenCargar.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RestTMDB\RestTMDB.csproj">
       <Project>{2AA65D5D-749A-43CD-BB4B-69D361275087}</Project>

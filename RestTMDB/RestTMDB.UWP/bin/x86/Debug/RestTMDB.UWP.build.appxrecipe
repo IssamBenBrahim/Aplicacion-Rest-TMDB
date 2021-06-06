@@ -175,6 +175,9 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\logoImagenCargar.png">
+      <PackagePath>logoImagenCargar.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\logoPelicula.png">
       <PackagePath>logoPelicula.png</PackagePath>
     </AppxPackagedFile>
