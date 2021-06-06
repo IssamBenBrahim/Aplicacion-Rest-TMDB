@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-06T15:29:10.641</Modified>
+      <Modified>2021-06-06T15:47:33.228</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\bin\x86\Debug\RestTMDB.UWP.exe">
       <PackagePath>entrypoint\RestTMDB.UWP.exe</PackagePath>
-      <Modified>2021-06-06T15:29:08.965</Modified>
+      <Modified>2021-06-06T15:47:30.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bakso\.nuget\packages\json.net\1.0.33\lib\netstandard2.0\Json.Net.dll">
       <PackagePath>Json.Net.dll</PackagePath>
@@ -76,7 +76,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\bin\Debug\netstandard2.0\RestTMDB.dll">
       <PackagePath>RestTMDB.dll</PackagePath>
-      <Modified>2021-06-06T15:35:39.878</Modified>
+      <Modified>2021-06-06T15:47:20.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bakso\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -239,11 +239,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-06-06T15:29:08.836</Modified>
+      <Modified>2021-06-06T15:47:30.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-06-06T15:29:08.837</Modified>
+      <Modified>2021-06-06T15:47:30.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -263,7 +263,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\bin\x86\Debug\Core\RestTMDB.UWP.exe">
       <PackagePath>RestTMDB.UWP.exe</PackagePath>
-      <Modified>2021-06-06T15:29:10.629</Modified>
+      <Modified>2021-06-06T15:47:33.215</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

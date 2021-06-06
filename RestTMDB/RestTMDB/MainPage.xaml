@@ -10,6 +10,7 @@
                    Margin="25,40,25,0"
                    FontSize="Medium"
                    FontAttributes="Italic"
+                   SearchButtonPressed="CountriesSearchBar_SearchButtonPressed"
                    BackgroundColor="#FBCBF3"/>
 
         <Image x:Name="imagenLogoPelicula"
