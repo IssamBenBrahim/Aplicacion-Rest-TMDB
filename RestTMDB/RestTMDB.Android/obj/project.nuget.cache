@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ee9HY0Yi/DGSAw1jGW2xaY1Prv9/jOXiTQB11hnF+W2+q1NWdTk9KRSdaER1n2ynbK3iUqJTHKtCx7+C9EjDcA==",
+  "dgSpecHash": "fYtdtSJiIsgrl/owMM/E4EhLRXHiMT4Mc4EUj14Xvzyhphyr5U/vd7fSssjJGXZ7hhT86DIjjNGwxaAJQhrnbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bakso\\source\\repos\\RestTMDB\\RestTMDB\\RestTMDB.Android\\RestTMDB.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bakso\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\bakso\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\bakso\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",

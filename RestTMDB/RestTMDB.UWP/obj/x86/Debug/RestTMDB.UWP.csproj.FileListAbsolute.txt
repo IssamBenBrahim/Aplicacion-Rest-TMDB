@@ -61,3 +61,5 @@ C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\obj\x86\Debug\Multipl
 C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160679180000000.json
 C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\bin\x86\Debug\Json.Net.dll
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\bin\x86\Debug\Newtonsoft.Json.dll

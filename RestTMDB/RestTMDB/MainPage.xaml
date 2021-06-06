@@ -12,6 +12,14 @@
                    FontAttributes="Italic"
                    BackgroundColor="#FBCBF3"/>
 
+        <Image x:Name="imagenLogoPelicula"
+               Source="logoPelicula.png"
+               Margin="0,250,0,0"
+               WidthRequest="150"
+               HeightRequest="150"
+               IsVisible="true"
+               Aspect="AspectFit"/>
+
     </StackLayout>
 
 </ContentPage>
