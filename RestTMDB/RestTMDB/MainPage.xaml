@@ -7,33 +7,22 @@
 
         <SearchBar x:Name="CountriesSearchBar"  
                    Placeholder="Buscar Pelicula..."
-                   Margin="25,40,25,0"
-                   FontSize="Medium"
-                   FontAttributes="Italic"
                    SearchButtonPressed="CountriesSearchBar_SearchButtonPressed"
-                   BackgroundColor="#FBCBF3"/>
+                   Style="{StaticResource EstiloSearchBar}"/>
 
         <Image x:Name="imagenLogoPelicula"
                Source="logoPelicula.png"
-               Margin="0,250,0,0"
-               WidthRequest="150"
-               HeightRequest="150"
-               IsVisible="true"
-               Aspect="AspectFit"/>
+               Style="{StaticResource EstiloLogoPelicula}"/>
 
         <Image x:Name="imagenCargar"
                Source="logoImagenCargar.png"
-               Margin="0,250,0,0"
-               WidthRequest="100"
-               HeightRequest="100"
-               IsVisible="true"
-               Aspect="AspectFit"/>
+               Style="{StaticResource EstiloImagenCarga}"/>
 
         <ListView ItemsSource="{Binding}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <Grid Margin="10,20,0,0">
+                        <Grid Style="{StaticResource EstiloGrid}">
 
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="Auto"/>
@@ -52,25 +41,21 @@
 
                             <Image Source="{Binding poster_path}"
                                    Grid.RowSpan="6"
-                                   WidthRequest="100"
-                                   HeightRequest="100"
-                                   Aspect="AspectFit"/>
+                                   Style="{StaticResource EstiloImagenPoster}"/>
 
                             <Label Text="{Binding title}"
-                                   FontSize="20"
-                                   FontAttributes="Bold"
                                    Grid.Column="1"
-                                   Grid.Row="1"/>
+                                   Grid.Row="1"
+                                   Style="{StaticResource EstiloLabelTitulo}"/>
 
                             <Label Text="{Binding overview}"
                                    Grid.Column="1"
                                    Grid.Row="2"/>
 
                             <Label Text="{Binding release_date}"
-                                   FontAttributes="Italic"
-                                   TextColor="Gray"
                                    Grid.Column="1"
-                                   Grid.Row="3"/>
+                                   Grid.Row="3"
+                                   Style="{StaticResource EstiloLabelFecha}"/>
 
                         </Grid>
                     </ViewCell>

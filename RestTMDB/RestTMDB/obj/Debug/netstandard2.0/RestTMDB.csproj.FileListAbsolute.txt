@@ -12,3 +12,4 @@ C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\
 C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\RestTMDB.dll
 C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\ref\RestTMDB.dll
 C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\RestTMDB.pdb
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\DiccionarioRecursos.xaml.g.cs

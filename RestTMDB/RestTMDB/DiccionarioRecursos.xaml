@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+
+    <!--Estilo para el SearchBar-->
+    <Style TargetType="SearchBar" x:Key="EstiloSearchBar">
+        <Setter Property="Margin" Value="25,40,25,0"/>
+        <Setter Property="FontSize" Value="Medium"/>
+        <Setter Property="FontAttributes" Value="Italic"/>
+        <Setter Property="BackgroundColor" Value="#FBCBF3"/>
+    </Style>
+
+    <!--Estilo para la imagen del logopelicula-->
+    <Style TargetType="Image" x:Key="EstiloLogoPelicula">
+        <Setter Property="Margin" Value="0,250,0,0"/>
+        <Setter Property="WidthRequest" Value="150"/>
+        <Setter Property="HeightRequest" Value="150"/>
+        <Setter Property="Aspect" Value="AspectFit"/>
+        <Setter Property="IsVisible" Value="true"/>
+    </Style>
+
+    <!--Estilo para la imagen del logoImagenCarga-->
+    <Style TargetType="Image" x:Key="EstiloImagenCarga">
+        <Setter Property="Margin" Value="0,250,0,0"/>
+        <Setter Property="WidthRequest" Value="100"/>
+        <Setter Property="HeightRequest" Value="100"/>
+        <Setter Property="Aspect" Value="AspectFit"/>
+        <Setter Property="IsVisible" Value="true"/>
+    </Style>
+
+    <!--Estilo para la imagen del logoImagenCarga-->
+    <Style TargetType="Grid" x:Key="EstiloGrid">
+        <Setter Property="Margin" Value="10,20,0,0"/>
+    </Style>
+
+    <!--Estilo para la imagen del poster_path-->
+    <Style TargetType="Image" x:Key="EstiloImagenPoster">
+        <Setter Property="WidthRequest" Value="100"/>
+        <Setter Property="HeightRequest" Value="100"/>
+        <Setter Property="Aspect" Value="AspectFit"/>
+    </Style>
+
+    <!--Estilo para el label del titulo-->
+    <Style TargetType="Label" x:Key="EstiloLabelTitulo">
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="FontAttributes" Value="Bold"/>
+    </Style>
+
+    <!--Estilo para el label release_date (las fechas de lanzamiento de las peliculas)-->
+    <Style TargetType="Label" x:Key="EstiloLabelFecha">
+        <Setter Property="FontAttributes" Value="Italic"/>
+        <Setter Property="TextColor" Value="Gray"/>
+    </Style>
+
+
+
+</ResourceDictionary> 
