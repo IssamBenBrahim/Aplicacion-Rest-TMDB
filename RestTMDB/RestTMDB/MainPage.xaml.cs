@@ -36,6 +36,7 @@ namespace RestTMDB
 
                 foreach (Data.Result pelicula in peliculaCollection.results)
                 {
+                    pelicula.poster_path = "https://image.tmdb.org/t/p/w500" + pelicula.poster_path;
 
                     peliculas.Add(pelicula);
 
