@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XAweYFY+MM+nTjAToLeGHtRt7qHQFwVYWRXW+PVG2gzsq3QlNWOSGfWvOf9shKAPrPcoUWldrC9kuf9MflzZ4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bakso\\source\\repos\\RestTMDB\\RestTMDB\\RestTMDB\\RestTMDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bakso\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bakso\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bakso\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1 @@
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB.UWP\RestTMDB.UWP.csproj;x86

@@ -1,0 +1,14 @@
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\bin\Debug\netstandard2.0\RestTMDB.deps.json
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\bin\Debug\netstandard2.0\RestTMDB.dll
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\bin\Debug\netstandard2.0\ref\RestTMDB.dll
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\bin\Debug\netstandard2.0\RestTMDB.pdb
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\RestTMDB.csproj.AssemblyReference.cache
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\RestTMDB.AssemblyInfoInputs.cache
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\RestTMDB.AssemblyInfo.cs
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\RestTMDB.csproj.CoreCompileInputs.cache
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\RestTMDB.dll
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\ref\RestTMDB.dll
+C:\Users\bakso\source\repos\RestTMDB\RestTMDB\RestTMDB\obj\Debug\netstandard2.0\RestTMDB.pdb
