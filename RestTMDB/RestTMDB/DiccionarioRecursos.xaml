@@ -53,6 +53,11 @@
         <Setter Property="TextColor" Value="Gray"/>
     </Style>
 
+    <!--Estilo para ContentPage-->
+    <Style TargetType="ContentPage" x:Key="EstiloContentPage">
+        <Setter Property="BackgroundColor" Value="#F8FFBD"/>
+    </Style>
+
 
 
 </ResourceDictionary> 
