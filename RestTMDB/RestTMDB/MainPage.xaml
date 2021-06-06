@@ -20,6 +20,55 @@
                IsVisible="true"
                Aspect="AspectFit"/>
 
+        <ListView ItemsSource="{Binding}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid Margin="10,20,0,0">
+
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Image Source="{Binding poster_path}"
+                                   Grid.RowSpan="6"
+                                   WidthRequest="100"
+                                   HeightRequest="100"
+                                   Aspect="AspectFit"/>
+
+                            <Label Text="{Binding title}"
+                                   FontSize="20"
+                                   FontAttributes="Bold"
+                                   Grid.Column="1"
+                                   Grid.Row="1"/>
+
+                            <Label Text="{Binding overview}"
+                                   Grid.Column="1"
+                                   Grid.Row="2"/>
+
+                            <Label Text="{Binding release_date}"
+                                   FontAttributes="Italic"
+                                   TextColor="Gray"
+                                   Grid.Column="1"
+                                   Grid.Row="3"/>
+
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
     </StackLayout>
 
 </ContentPage>
